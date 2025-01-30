@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-^8v1jmparavfme(n=ax(9y1rczlw3h5p&3mo@z)q-ngfe)%)zn
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'cs-webapps.bu.edu'
+    'cs-webapps.bu.edu',
+    '127.0.0.1'
 ]
 
 
